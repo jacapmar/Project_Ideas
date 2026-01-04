@@ -1,0 +1,9 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS junk
+.DS_Store
